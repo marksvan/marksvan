@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marksvan
 - 👀 I’m interested in embedded computing and also machine learning
 - 🌱 I’m currently learning about GitHub
-- 💞️ I’m looking to collaborate on learning aboutr GitHub ;-)
+- 💞️ I’m looking to collaborate on learning about GitHub ;-)
 - 📫 How to reach me - LinkedIn for now
 
 <!---
